@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.karwa.revamp",
+      "sha256_cert_fingerprints": [
+        "88:C1:8A:5D:75:91:E5:90:FB:4A:85:F7:40:75:EE:FB:04:97:F2:05:76:51:19:F8:AA:AF:50:F0:1B:9F:BB:2E"
+      ]
+    }
+  }
+]
